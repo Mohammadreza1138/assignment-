@@ -1,0 +1,18 @@
+.section{
+  width: 300px;
+  height: 150px;
+  border: 2px solid black;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.z-index{
+  z-index: 10 !important;
+}
+.titleBar{
+  cursor: grab;
+}
+.is-dragging{
+  cursor: grabbing !important;
+}
+
